@@ -29,3 +29,12 @@ This folder will contain all gears item skins
 
 ### Black_TriZip - Made by Project Purple#0675
 ![Black_TriZip](https://cdn.discordapp.com/attachments/602533402402619422/677566375836778520/unknown.png)
+
+### Grasyl-AhegaoFaceShiel - Made by Grasyl
+![AhegaoFaceShiel](https://i.imgur.com/qOcMPWH.png)
+
+### Grasyl-CreepyFaceCover - Made by Grasyl
+![CreepyFaceCover](https://i.imgur.com/uOFQ4m2.png)
+
+### FaceCoverFlame - Made by "WHO DID It ?"
+![FaceCoverFlame](https://i.imgur.com/osTOYRx.png)
