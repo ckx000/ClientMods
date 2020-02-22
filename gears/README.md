@@ -41,3 +41,21 @@ This folder will contain all gears item skins
 
 ### Nexrus-TritonDigitalFlora - Made by Nexrus
 ![TritonDigitalFlora](https://cdn.discordapp.com/attachments/674644582650347522/680792143169847299/673.png)
+
+### Nexrus-DigitalFloraZhuk6a - Made by Nexrus
+![DigitalFloraZhuk6a](https://cdn.discordapp.com/attachments/602533402402619422/680850244023615534/745.png
+
+### Nexrus-DigitalFloraLSHZ2 - Made by Nexrus
+![DigitalFloraLSHZ2](https://cdn.discordapp.com/attachments/602533402402619422/680851774470750400/746.png)
+
+### Nexrus-DigitalFloraSSOBackPack - Made by Nexrus
+![DigitalFloraSSOBackPack](https://cdn.discordapp.com/attachments/602533402402619422/680852538630864929/744.png)
+
+### VulkanLorenzo - Made by enhausser#0408
+![VulkanLorenzo](https://cdn.discordapp.com/attachments/602533402402619422/680257846222651400/lorenzovulkan.png)
+
+### BlackRACHeadset - Made by jagr034#8267
+![BlackRACHeadset](https://cdn.discordapp.com/attachments/602533402402619422/680202434752151557/f09d8aaf9d57e7dd972901572f8229c3.png)
+
+### BlackGPNVG - Made by jagr034#8267
+![BlackGPNVG](https://cdn.discordapp.com/attachments/602533402402619422/680236188946137102/638b1ec1f88f773f90c24f1d9549ee86.png)
