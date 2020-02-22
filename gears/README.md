@@ -38,3 +38,6 @@ This folder will contain all gears item skins
 
 ### FaceCoverFlame - Made by "WHO DID It ?"
 ![FaceCoverFlame](https://i.imgur.com/osTOYRx.png)
+
+### Nexrus-TritonDigitalFlora - Made by Nexrus
+![TritonDigitalFlora](https://cdn.discordapp.com/attachments/674644582650347522/680792143169847299/673.png)
