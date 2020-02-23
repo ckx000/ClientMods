@@ -43,7 +43,7 @@ This folder will contain all gears item skins
 ![TritonDigitalFlora](https://cdn.discordapp.com/attachments/674644582650347522/680792143169847299/673.png)
 
 ### Nexrus-DigitalFloraZhuk6a - Made by Nexrus
-![DigitalFloraZhuk6a](https://cdn.discordapp.com/attachments/602533402402619422/680850244023615534/745.png
+![DigitalFloraZhuk6a](https://cdn.discordapp.com/attachments/602533402402619422/680850244023615534/745.png)
 
 ### Nexrus-DigitalFloraLSHZ2 - Made by Nexrus
 ![DigitalFloraLSHZ2](https://cdn.discordapp.com/attachments/602533402402619422/680851774470750400/746.png)
