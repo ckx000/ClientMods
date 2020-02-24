@@ -22,10 +22,10 @@ This folder will contain all gears item skins
 ![Black_6b43_Armor](https://cdn.discordapp.com/attachments/602533402402619422/677521202826313728/unknown.png)
 
 ### FullTanEXFIL - Made by 8BitPotato#7974
-![FullTanEXFIL]()
+![FullTanEXFIL](https://i.imgur.com/1q1tnGO.png)
 
 ### FullBlackEXFIL - Made by 8BitPotato#7974
-![FullBlackEXFIL]()
+Above image
 
 ### Black_TriZip - Made by Project Purple#0675
 ![Black_TriZip](https://cdn.discordapp.com/attachments/602533402402619422/677566375836778520/unknown.png)
