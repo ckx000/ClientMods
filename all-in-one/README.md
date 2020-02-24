@@ -27,46 +27,46 @@ This folder will contain all weapons skins wich are added with all skinned parts
 
 ### SirBrando-mods - Made by SirBrando
 IOTV
-![SirBrando-IOTV](https://imgur.com/MWxHUT3)
+![SirBrando-IOTV](https://i.imgur.com/MWxHUT3.png)
 
 USEC Clothing
-![SirBrando-USEC](https://imgur.com/t0pksM9)
+![SirBrando-USEC](https://i.imgur.com/t0pksM9.png)
 
 Kappa Case
-![SirBrando-kappa](https://imgur.com/t0pksM9)
+![SirBrando-kappa](https://i.imgur.com/IjyDvet.png)
 
 Money Case
-![SirBrando-mods](https://imgur.com/xOY7KAh)
+![SirBrando-mods](https://i.imgur.com/xOY7KAh.png)
 
 6h112
-![SirBrando-6h112](https://imgur.com/bspK6Is)
+![SirBrando-6h112](https://i.imgur.com/bspK6Is.png)
 
 Armor Module 3
-![SirBrando-am3](https://imgur.com/wWu9hja)
+![SirBrando-am3](https://i.imgur.com/wWu9hja.png)
 
 Dx3cr
-![SirBrando-Dx3cr](https://imgur.com/Eve8cP3)
+![SirBrando-Dx3cr](https://i.imgur.com/Eve8cP3.png)
 
 Paca
-![SirBrando-paca](https://imgur.com/2NUq01h)
+![SirBrando-paca](https://i.imgur.com/2NUq01h.png)
 
 Triton
-![SirBrando-triton](https://imgur.com/nnitMSG)
+![SirBrando-triton](https://i.imgur.com/nnitMSG.png)
 
 Face Cover
-![SirBrando-face](https://imgur.com/uTGkOw0)
+![SirBrando-face](https://i.imgur.com/uTGkOw0.png)
 
 TT Gold
-![SirBrando-ttgold](https://imgur.com/zYtMZ3S)
+![SirBrando-ttgold](https://i.imgur.com/zYtMZ3S.png)
 
 TT
-![SirBrando-yy](https://imgur.com/zZw8TWB)
+![SirBrando-yy](https://i.imgur.com/zZw8TWB.png)
 
 Mosin
-![SirBrando-mosin](https://imgur.com/sg2HjgS)
+![SirBrando-mosin](https://i.imgur.com/sg2HjgS.png)
 
 M4A1
-![SirBrando-m4a1](https://imgur.com/Jd2hnbF)
+![SirBrando-m4a1](https://i.imgur.com/Jd2hnbF.png)
 
 HK416
-![SirBrando-hk416](https://imgur.com/2zlK0i0)
+![SirBrando-hk416](https://i.imgur.com/2zlK0i0.png)
