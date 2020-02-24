@@ -8,3 +8,6 @@ This folder will contain all pistols skins
 
 ### enhausser-DBZ17 - Made by enhausser
 ![enhausser-DBZ17](https://i.imgur.com/CIXxG17.jpg)
+
+### enhausser-AngryMobFiveSeven - Made by enhausser
+![enhausser-AngryMob](https://i.imgur.com/283QYcl.jpg)
