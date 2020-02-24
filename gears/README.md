@@ -36,7 +36,7 @@ Above image
 ### Grasyl-CreepyFaceCover - Made by Grasyl
 ![CreepyFaceCover](https://i.imgur.com/uOFQ4m2.png)
 
-### FaceCoverFlame - Made by "WHO DID It ?"
+### FaceCoverFlame - Made by "SirBrando"
 ![FaceCoverFlame](https://i.imgur.com/osTOYRx.png)
 
 ### Nexrus-TritonDigitalFlora - Made by Nexrus
