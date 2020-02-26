@@ -19,6 +19,6 @@ You want to know how to create and edit a item texture ? Here's a tutorial for y
 
 
 # Official links
-**Discord link**: https://discord.gg/JnJEev4
+**Discord link**: https://discord.gg/dVJcPsv
 
 **Reddit page**: https://www.reddit.com/r/EmuTarkov/
